@@ -1,7 +1,3 @@
 div {
-background-color: crimson;
-color: 9999ff;
-text-shadow: 2px 2px 2px 6666cc;
-border-color: firebrick;
-border-width: 5px;
+text-align: center;background-color: crimson;border: 5px solid firebrick;color: #9999ff;text-shadow: 2px 2px 2px #6666cc
 }
