@@ -1,7 +1,7 @@
-The Do Anything You Want Public License (DAYWPL)
+This work is licensed under the [Do Anything You Want Public License](https://tsfble2023pedia.fandom.com/wiki/DoAnything_Public_License) (DAYWPL).
 
 ```
-Copyright © 2023-2026
+Copyright © 2023-Today
 ILoveDogs5335
 Licensor: ILoveDogs5335 LLC,,.
 
